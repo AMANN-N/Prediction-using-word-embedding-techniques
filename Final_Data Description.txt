@@ -1,0 +1,15 @@
+1-tfidf
+2.skg
+3.cbow
+4. w2v
+5. fat
+6. glove
+7. bert
+
+
+1-7 = word embeddings calculated
+8-14 =  word embeddings calculated after applying ANOVA test
+15-21 = word embeddings calclated after applying PCA
+22-28= word embeddings calculated after applying LDA.
+
+29-56 = Repeat (1-28) after normalizing data with SMOTE technique
